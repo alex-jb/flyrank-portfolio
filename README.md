@@ -9,10 +9,12 @@ This repo is where I keep the weekly assignment artifacts for FlyRank AI's 8-wee
 |---|---|---|---|
 | 1 | AI Fluency | What am I proving? | [`week-01/what-are-you-proving.pdf`](./week-01/what-are-you-proving.pdf) |
 | 1 | AI Fluency | Draw the Path: Portfolio Sitemap + Toolkit | [`week-01/sitemap-reference.pdf`](./week-01/sitemap-reference.pdf) |
-| 1 | AI Fluency | AI Workflow Audit and Tool Setup | *(pending)* |
-| 1 | ML | Run the Starter Notebooks | *(pending)* |
-| 1 | ML | Research Question and Provisional Lane | *(pending)* |
-| 2 | AI Fluency | Frame It as Cases | *(pending)* |
+| 1 | AI Fluency | AI Workflow Audit and Tool Setup | [`week-01/workflow-audit.pdf`](./week-01/workflow-audit.pdf) + [screenshot](./week-01/claude-project-screenshot.png) |
+| 1 | ML | Run the Starter Notebooks | [github.com/alex-jb/flyrank-ml-internship](https://github.com/alex-jb/flyrank-ml-internship) (`notebooks/01`, `02`) |
+| 1 | ML | Research Question and Provisional Lane | [github.com/alex-jb/flyrank-ml-internship](https://github.com/alex-jb/flyrank-ml-internship/blob/main/work/notebooks/w01_research_question.ipynb) |
+| 2 | AI Fluency | Frame It as Cases | [`week-02/frame-it-as-cases.pdf`](./week-02/frame-it-as-cases.pdf) |
+| 2 | AI Fluency | Prompt Ladder (one layer at a time) | [`week-02/prompt-ladder.pdf`](./week-02/prompt-ladder.pdf) |
+| 2 | AI Fluency | Prompt Iteration Log (cross-model) | [`week-02/prompt-iteration-log.pdf`](./week-02/prompt-iteration-log.pdf) |
 
 ## Layout
 
