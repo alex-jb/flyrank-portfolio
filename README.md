@@ -19,6 +19,7 @@ This repo is where I keep the weekly assignment artifacts for FlyRank AI's 8-wee
 | 3 | AI Fluency | Identity Kit (type, palette, logo) | [`week-03/identity-kit.pdf`](./week-03/identity-kit.pdf) + [favicon](./week-03/favicon.png) |
 | 3 | AI Fluency | Curate Your Images | [`week-03/images/`](./week-03/images/) (map + set + rejection note) |
 | 3 | AI Fluency | The Through-Line (claim + content map) | [`week-03/through-line/`](./week-03/through-line/) |
+| 4 | AI Fluency | **Ship It Live** 🔗 | **[alex-jb.github.io/portfolio](https://alex-jb.github.io/portfolio/)** · [note](./week-04/README.md) |
 
 ## Layout
 
