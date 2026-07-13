@@ -15,6 +15,8 @@ This repo is where I keep the weekly assignment artifacts for FlyRank AI's 8-wee
 | 2 | AI Fluency | Frame It as Cases | [`week-02/frame-it-as-cases.pdf`](./week-02/frame-it-as-cases.pdf) |
 | 2 | AI Fluency | Prompt Ladder (one layer at a time) | [`week-02/prompt-ladder.pdf`](./week-02/prompt-ladder.pdf) |
 | 2 | AI Fluency | Prompt Iteration Log (cross-model) | [`week-02/prompt-iteration-log.pdf`](./week-02/prompt-iteration-log.pdf) |
+| 2 | ML | Frame Your Lane as an ML Task | [github.com/alex-jb/flyrank-ml-internship](https://github.com/alex-jb/flyrank-ml-internship/blob/main/work/notebooks/w02_ml_task_framing.ipynb) |
+| 3 | AI Fluency | Identity Kit (type, palette, logo) | [`week-03/identity-kit.pdf`](./week-03/identity-kit.pdf) + [favicon](./week-03/favicon.png) |
 
 ## Layout
 
