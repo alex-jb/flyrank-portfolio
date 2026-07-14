@@ -50,3 +50,12 @@ Send the live link to one person in or near AI/ML and capture their reaction. Dr
 - What confused them:
 - Did the work land? (which case, if any):
 - One change they'd make:
+
+
+## Update (2026-07-13) — added a "tasteful wow" layer
+
+After a deep-research pass on the flashy-vs-calm question (`../_research/2026-07-13-flashy-vs-calm-portfolio.md`), I kept the calm site and added, all reduced-motion-safe:
+- scroll reveals, hero number count-ups, an animated agent-node hero lattice, hover micro-interactions
+- **an interactive 5-voice debate demo** (home "Live demo" section + the Orallexa case page) — the research's highest-leverage move: interactive/runnable work beats visual flash.
+
+**Still ugly (updated):** real work screenshots + a real headshot + a Calendly link are still pending; test-count (1,300+ vs 745) still needs reconciling; mobile nav menu still absent.
